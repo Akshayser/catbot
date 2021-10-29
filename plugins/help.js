@@ -1,8 +1,8 @@
 /* Copyright (C) 2021 BASILSER.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Amalser - Amal
-Wa.me/+919895828468
+Basilser-basil
+Wa.me/+919544685703
 */
 
 const Neotro = require('../events');
