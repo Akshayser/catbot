@@ -17,7 +17,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v1.3.2 Global Stable',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.CONNECTION_CODE === undefined ? '' : process.env.CATBOT_CODE,
+    SESSION: process.env.CATBOT_CODE === undefined ? '' : process.env.CATBOT_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     AFN: process.env.ALL_CAPTION === undefined ? 'Made By catbot' : process.env.ALL_CAPTION,
