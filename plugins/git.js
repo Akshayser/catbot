@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Sticker commads : https://github.com/itsmebasil0/catbot/tree/master/uploads*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
+*Video For Setting Bot : https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
