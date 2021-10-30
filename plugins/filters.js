@@ -147,7 +147,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919544685703@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/song.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['basil','catbot','ashfaq','bomb','luca','Ayye','Da','Enthada','Good','Hi','Hlo','Like','Pattumo','arra','air','alla','anthas','bie','biscuit','broken','cat','charge','chathu','cheyalle','dead','dq','dqirfan','eda','eh','fan','gn','happy','help','help','killadi','list','mama','marichu','mention','morning','muthe','nablu','nazeeh','nee alle','night','nihu','nth','oombi','pedicho','power','rayu','rocky','sad','sali','set']]
+const array = ['basil','catbot','ashfaq','bomb','luca','Ayye','Da','Enthada','Good','Hi','Hlo','Like','Pattumo','arra','air','alla','anthas','bie','biscuit','broken','cat','charge','chathu','cheyalle','dead','dq','dqirfan','eda','eh','fan','gn','happy','help','help','killadi','list','mama','marichu','mention','morning','muthe','nablu','nazeeh','nee alle','night','nihu','nth','oombi','pedicho','power','rayu','rocky','sad','sali','set']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
