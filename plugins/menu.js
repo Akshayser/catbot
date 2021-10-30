@@ -134,8 +134,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp pikachu
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Pikachu💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+═════📍CATBOT📍═════
+▣▣▣▣▣▣▣▣▣BASILSER▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
